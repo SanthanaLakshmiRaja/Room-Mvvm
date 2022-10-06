@@ -14,7 +14,6 @@ import com.example.noteapp.Adapter.NoteClickInterface
 import com.example.noteapp.Room.Note
 import com.example.noteapp.ViewModel.NoteViewModel
 import com.google.android.material.floatingactionbutton.FloatingActionButton
-import java.util.*
 
 class MainActivity : AppCompatActivity(), NoteClickInterface, NoteClickDeleteInterface {
 
